@@ -1,0 +1,6 @@
+{
+  "name": "RiseIQ",
+  "description": "Premium glassmorphic smart alarm, voice reminders, and habit assistant powered by custom wake missions and AI suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
